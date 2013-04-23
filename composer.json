@@ -1,0 +1,15 @@
+{
+    "name": "enetwiz/utils",
+    "description": "Utils scripts / classes used by enetwiz packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mariusz Gotlib",
+            "email": "mg@netwiz.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
