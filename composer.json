@@ -11,5 +11,9 @@
     "minimum-stability": "stable",
     "require": {
 
-    }
+    },
+    "autoload": {
+        "psr-0": { "Enetwiz\\Utils\\Composer": "" }
+    },
+    "target-dir": "Enetwiz/Utils/Composer"
 }
